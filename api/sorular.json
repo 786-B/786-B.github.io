@@ -1,0 +1,1117 @@
+[
+ 
+  {
+    "question": "Hz. Allah seni neyden yarattý ?",
+    "answer": "Topraktan",
+    "choices": [
+      "Topraktan",
+      "Ateþten",
+      "Odundan",
+      "Sudan"
+    ]
+  },
+  {
+    "question": "Yeryüzündeki mahlukatýn en þereflisi kim ?",
+    "answer": "Ýnsan",
+    "choices": [
+      "Cin",
+      "Maymun",
+      "Bitki",
+	  "Ýnsan"
+    ]
+  },
+    {
+    "question":  "Hz. Allah bizi niçin yarattý ?",
+    "answer": "Kendisini bilmemiz ve ibadet etmemiz için yarattý",
+    "choices": [
+      "Çok para kazanmak için yarattý",
+      "Zamanýný kahvede israf etmek için yarattý",
+      "Kendisini bilmemiz ve ibadet etmemiz için yarattý",
+      "Gezsin tozsun diye yarattý"
+    ]
+  },
+     {
+    "question":  "Hz. Adem kimdir ?",
+    "answer": "Hz. Adem ilk Peygamber ve bütün insanlarn babasý",
+    "choices": [
+      "Hz. Adem son Peygamber",
+      "Hz. Adem Þit Peygamberin oðludur",
+      "Hz. Adem Yakub Peygamberin babasý",
+      "Hz. Adem ilk Peygamber ve bütün insanlarn babasý"
+    ]
+  },
+     {
+    "question": "Peygamber Allah`ýn emirlerini kullarýna bildiren Allah ile kullarý arasýnda elçi",
+    "answer": "True",
+    "choices": [
+      "False",
+      "True"
+    ]
+  },
+    {
+    "question":  "Allah Peygamberi niçin gönderdi ?",
+    "answer": "Hepsi doðru",
+    "choices": [
+      "Ýnsanlara doðru yolu göstermek için",
+      "Dünyada da mesut edecek reçeteleri bildirmek için",
+      "Dini yaymak ve temsil etmek",
+      "Hepsi doðru"
+    ]
+  },
+       {
+    "question":  "Kuraný kerim'de ismi geçen Peygamberler kaçtýr ?",
+    "answer": "25",
+    "choices": [
+      "124.000",
+      "25",
+      "224.000",
+      "5"
+    ]
+  },
+    {
+    "question":  "Milad, yada Miladi ne demek ?",
+    "answer": "Hz. Ýsa a.s.`ýn  doðum günü kabul edilen yýl baþý",
+    "choices": [
+      "Hz. Muhammed a.s.`ýn  doðum günü kabul edilen yýl baþý",
+      "Hz. Musa a.s.`ýn  doðum günü kabul edilen yýl baþý",
+      "Hz. Ýsa a.s.`ýn  doðum günü kabul edilen yýl baþý",
+      "Hz. Ýbrahim a.s.`ýn  doðum günü kabul edilen yýl baþý"
+    ]
+  },
+    {
+    "question":  "Kimin zürriyetindensin ?",
+    "answer": "Adem a.s.`ýn",
+    "choices": [
+      "Adem a.s.`ýn",
+      "Ýbrahim a.s.`ýn",
+      "Nuh a.s.`ýn",
+      "Yakup a.s.`ýn"
+    ]
+  },
+   {
+    "question":  "Kimin milletindensin ?",
+    "answer": "Ýbrahim a.s.`ýn",
+    "choices": [
+      "Yusuf a.s.`ýn",
+      "Ýbrahim a.s.`ýn",
+      "Nuh a.s.`ýn",
+      "Yakup a.s.`ýn"
+    ]
+  },
+   {
+    "question":  "Ne zamandan beri Müslümansýn ?",
+    "answer": "Kalu Bela'dan beri",
+    "choices": [
+      "Kalu Bela'dan beri",
+      "Doðuþtan beri",
+      "Anamýn karnýndan beri"
+    ]
+  },
+          {
+    "question":  "Kalu Bela ne demektir ?",
+    "answer": "Allah`ýn ruhlara 'Elestü bi Rabbiküm' sorduðu yerdir",
+    "choices": [
+      "Kabir alemi",
+      "Allah`ýn ruhlara 'Elestü bi Rabbiküm' sorduðu yerdir",
+      "Mahþer yeri"
+    ]
+  },
+  
+     {
+    "question": "Elestü bi Rabbikum, Ben sizin Rabbiniz deðilmiyim demek ",
+    "answer": "True",
+    "choices": [
+      "False",
+      "True"
+    ]
+  },
+       {
+    "question":  "Peygamberimizin ismi nedir ?",
+    "answer": "Hepsi Doðru",
+    "choices": [
+      "Muhammed Mustafa s.a.v.",
+      "Ahmed ve Mahmud",
+      "Yasin ve Taha",
+      "Hepsi Doðru"
+    ]
+  },
+       {
+    "question":  "Sen kimin ümmetindensin ?",
+    "answer": "Muhammed Mustafa s.a.v.`ýn",
+    "choices": [
+      "Muhammed Mustafa s.a.v.`ýn",
+      "Ýbrahim a.s.`ýn",
+      "Nuh a.s.`ýn",
+      "Yuþa a.s.`ýn"
+    ]
+  },
+  {
+    "question":  "Peygamberimiz hangi tarihte nerede doðdu ?",
+    "answer": "Miladi 571, Rebiyülevvel ayýnýn 12. pazartesi sabahý Mekke`de",
+    "choices": [
+      "Miladi 571, Rebiyülevvel ayýnýn 12. pazartesi sabahý Mekke`de",
+      "Miladi 571, Rebiyülevvel ayýnýn 12. pazartesi sabahý Medine`de",
+      "Hicri 571, Rebiyülevvel ayýnýn 12. pazartesi sabahý Mekke`de",
+      "Hicri 571, Rebiyülevvel ayýnýn 12. pazartesi sabahý Medine`de"
+    ]
+  },
+  {
+    "question":  "Peygamberimiz hangi kabiledendir ?",
+    "answer": "Kureyþ kabilesinden",
+    "choices": [
+      "Mekke kabilesinden",
+      "Medine kabilesinden",
+      "Kureyþ kabilesinden"
+    ]
+  },
+    {
+    "question":  "Peygamberimiz hangi sülaledendir ?",
+    "answer": "Haþim`i",
+    "choices": [
+      "Adioðullarý",
+      "Teymoðullarý",
+      "Ümeyyeoðullarý",
+      "Haþimoðullarý"
+    ]
+  },
+      {
+    "question":  "Peygamberimizin babasýnýn ismi nedir ?",
+    "answer": "Abdullah",
+    "choices": [
+      "Abdulmuttalib",
+      "Abdullah",
+      "Ebu Talip",
+      "Haþim"
+    ]
+  },
+   {
+    "question":  "Peygamberimizin annesinin ismi nedir ?",
+    "answer": "Amine",
+    "choices": [
+      "Havle",
+      "Süveybe",
+      "Halime",
+      "Amine"
+    ]
+  },
+   {
+    "question":  "Peygamberimizin sütannesinin ismi nedir ?",
+    "answer": "Süveybe ve Halime",
+    "choices": [
+      "Havle",
+      "Berre",
+      "Süveybe ve Halime",
+      "Zaife"
+    ]
+  },
+  {
+    "question":  "Ebu Talip kimdir ?",
+    "answer": "Peygamberimizin amcasý",
+    "choices": [
+      "Peygamberimizin amcasý",
+      "Peygamberimizin dayýsý",
+      "Peygamberimizin dostu"
+    ]
+  },
+  {
+    "question":  "Peygamberimizin ilk hanýmýnýn ismi neydi ?",
+    "answer": "Hz. Hatice",
+    "choices": [
+      "Hz. Hatice",
+      "Hz. Ayþe",
+      "Hz. Ümmü Seleme",
+      "Hz. Mariye"
+    ]
+  },
+   {
+    "question":  "Peygamberimizin kaç oðlu olmuþtur ?",
+    "answer": "3: Kasým, Abdullah, Ýbrahim",
+    "choices": [
+      "3: Ali, Abdullah, Ýbrahim",
+      "3: Kasým, Abdullah, Ebuzer",
+      "3: Kasým, Amr, Ýbrahim",
+      "3: Kasým, Abdullah, Ýbrahim"
+    ]
+  },
+  {
+    "question":  "Peygamberimizin kaç kýzý olmuþtur ?",
+    "answer": "4: Zeynep, Rukiyye Fatýma, Ümmügülsüm",
+    "choices": [
+      "4: Zeynep, Þeyma, Fatýma, Ümmügülsüm",
+      "4: Asiye, Rukiyye, Fatýma, Ümmügülsüm",
+      "4: Zeynep, Rukiyye, Fatýma, Ümmügülsüm"
+    ]
+  },
+   {
+    "question":  "Peygamberimizin kaç torunu olmuþtur ?",
+    "answer": "2: Hasan ve Hüseyin",
+    "choices": [
+      "2: Hasan ve Hüseyin",
+      "2: Ali ve Hüseyin",
+      "2: Hasan ve Zeynelabidin"
+    ]
+  },
+     {
+    "question":  "Peygamberimize Peygamberlik kaç yaþýnda verilmiþtir ?",
+    "answer": "40 yaþýnda",
+    "choices": [
+      "25 yaþýnda",
+      "40 yaþýnda",
+      "51 yaþýnda"
+    ]
+  },
+       {
+    "question":  "Peygamberimize kaç sene Peygamberlik yapmýþtýr ?",
+    "answer": "23 sene",
+    "choices": [
+      "63 sene",
+      "23 sene",
+      "33 sene"
+    ]
+  },
+
+         {
+    "question":  "Peygamberimize ilk vahiy nerede gelmiþtir ?",
+    "answer": "Hira daðýnda",
+    "choices": [
+      "Arafat daðýnda",
+      "Hira daðýnda",
+      "Sina daðýnda",
+      "Mukattam daðýnda"
+    ]
+  },
+    {
+    "question":  "Peygamberimizin hicreti ne zaman olmuþ ?",
+    "answer": "Miladi 622 yýlýnda muharrem ayýnýn ilk günü",
+    "choices": [
+      "Miladi 622 yýlýnda muharrem ayýnýn ilk günü",
+      "Hicri 622 yýlýnda muharrem ayýnýn ilk günü",
+      "Miladi 571, Rebiyülevvel ayýnýn 12. pazartesi",
+      "Hicri 571, Rebiyülevvel ayýnýn 12. pazartesi"
+    ]
+  },
+           {
+    "question":  "Peygamberimizin nereden nereye hicret etmiþtir ?",
+    "answer": "Mekke`den Medine`ye",
+    "choices": [
+      "Medine`den Mekke`ye",
+      "Mekke`den Medine`ye",
+      "Taif`den Medine`ye",
+      "Mekke`den Taife"
+    ]
+  }, 
+   {
+    "question":  "Peygamberimiz kaç yaþýnda nerede vefat etmiþtir ?",
+    "answer": "63 yaþýnda Medine`de",
+    "choices": [
+      "63 yaþýnda Medine`de",
+      "63 yaþýnda Mekke`de",
+      "63 yaþýnda Uhud`da",
+      "63 yaþýnda Bedir`de"
+    ]
+  },
+             {
+    "question":  "4 büyük Halife kimlerdir ?",
+    "answer": "Hz. Ebubekir, Hz. Ömer, Hz. Osman, Hz Ali",
+    "choices": [
+      "Hz. Ebubekir, Hz. Ömer, Hz. Ebuzer, Hz Ali",
+      "Hz. Ebubekir, Hz. Ömer, Hz. Osman, Hz Selman",
+      "Hz. Ebubekir, Hz. Ömer, Hz. Osman, Hz Ali",
+      "Hz. Ebubekir, Hz. Cübeyr, Hz. Osman, Hz Ali"
+    ]
+  },
+   {
+    "question":  "Hulafa-i Raþidin kime denir ?",
+    "answer": "4 büyük Halifeye",
+    "choices": [
+      "4 büyük Halifeye",
+      "Tüm Sahabeye",
+      "Ehli Beyte",
+      "Hz. Ebubekire"
+    ]
+  },
+   { "question":  "Hulafa-i Raþidin ne demek ?",
+    "answer": "Doðruluk üzere bulunan halifeler",
+    "choices": [
+      "Doðruluk üzere bulunan halifeler",
+      "Doðruluk üzere bulunan halifele",
+      "Halifele"
+    ]
+  },
+    {
+    "question":  "Resul nedir ?",
+    "answer": "Kitap gönderilen Peygamber",
+    "choices": [
+      "Her Nebi",
+      "Kendinden önce gelen Resulün dinini teblið eden Peygamber",
+      "Kitap gönderilen Peygamber",
+      "Her Peygamber"
+    ]
+  },
+      {
+    "question":  "Nebi nedir ?",
+    "answer": "Kendinden önce gelen Resulün dinini teblið eden Peygamber",
+    "choices": [
+      "Kendinden önce gelen Resulün dinini teblið eden Peygamber",
+      "Her Peygamber",
+      "Melektir"
+    ]
+  },
+     {
+    "question":  "Suhuf ne demektir ?",
+    "answer": "Suhuf sayfalar demektir",
+    "choices": [
+      "Suhuf Kitaplar demektir",
+      "Suhuf sayfalar demektir",
+      "Suhuf tek sayfa demektir",
+      "Suhuf Kitap demektir"
+    ]
+  },
+    {
+    "question":  "Suhuf hangi Peygamberlere gönderilmiþtir ?",
+    "answer": "10 sayfa Adem-, 50 Þit-, 30 Ýdris-, 10 Ýbrahim a.s.",
+    "choices": [
+      "10 sayfa Adem-, 50 Þit-, 30 Ýdris-, 10 Musa a.s.",
+      "10 sayfa Adem-, 50 Þit-, 30 Nuh-, 10 Ýbrahim a.s.",
+      "10 sayfa Adem-, 50 Þit-, 30 Ýdris-, 10 Ýbrahim a.s."
+    ]
+  },
+    {
+    "question":  "Kaç büyük Kitap vardýr ?",
+    "answer": "4",
+    "choices": [
+      "5",
+      "114",
+      "4",
+      "6666"
+    ]
+  },
+     {
+    "question":  "Büyük Kitap hangi Peygamberlere gönderilmiþtir ?",
+    "answer": "Musa a.s., Davut a.s., Ýsa a.s., Hz. Muhammed s.a.v.",
+    "choices": [
+      "Peygamber Melektir",
+      "Peygamber cinlerdendir",
+      "Allahu tealanýn emirlerini kullarýna bildiren ve Allah ile kullarý arasýnda elçi olan bir insandýr",
+      "Peygamber sadece Hz. Ademdir"
+    ]
+  },
+  {
+     "question":  "Tevrat hangi Peygambere gönderilmiþtir ?",
+    "answer": "Musa a.s.",
+    "choices": [
+      "Ýdris a.s.",
+      "Ýbrahim a.s.",
+      "Musa a.s.",
+      "Adem a.s."
+    ]
+  },
+  {
+      "question":  "Zebur hangi Peygambere gönderilmiþtir ?",
+    "answer": "Davut a.s.",
+    "choices": [
+      "Davut a.s.",
+      "Nuh a.s.",
+      "Harun a.s.",
+      "Adem a.s."
+    ]
+  },
+  {
+     "question":  "Ýncil hangi Peygambere gönderilmiþtir ?",
+    "answer": "Ýsa a.s.",
+    "choices": [
+      "Ýsa a.s.",
+	  "Ýshak a.s.",
+      "Nuh a.s.",
+      "Harun a.s."
+    ]
+  },
+  {
+    "question":  "Kuran-ý Kerim hangi Peygambere gönderilmiþtir ?",
+    "answer": "Hz. Muhammed s.a.v.",
+    "choices": [
+      "Hz. Muhammed s.a.v.",
+      "Ýshak a.s.",
+      "Yahya a.s.",
+      "Harun a.s."
+    ]
+  },
+    {
+    "question":  "Kuran ne zaman indirilmeye baþlamýþtýr ?",
+    "answer": "Kadir gecesinde",
+    "choices": [
+      "Mevlid gecesinde",
+      "Kurban arefesinde",
+      "Berat gecesinde",
+      "Kadir gecesinde"
+    ]
+  },
+         {
+    "question":  "Kuran kaç senede inmiþtir ?",
+    "answer": "23 senede",
+    "choices": [
+      "40 senede",
+      "15 senede",
+      "23 senede",
+      "33 senede"
+    ]
+  },
+           {
+    "question":  "Kuran kaç suredir ?",
+    "answer": "114",
+    "choices": [
+      "114",
+      "298",
+      "6236",
+      "30"
+    ]
+  },
+     {
+    "question":  "Kuran kaç ayettir ?",
+    "answer": "6236",
+    "choices": [
+      "30",
+      "6236",
+      "4444",
+      "3030"
+    ]
+  },
+       {
+    "question":  "Melekler nasýl varlýklardýr ?",
+    "answer": "Nurdan yaratýlmýþ ruhani varlýklar",
+    "choices": [
+      "Havadan yaratýlmýþ varlýklar",
+      "Ateþten yaratýlmýþ varlýklar",
+      "Topraktan yaratýlmýþ ruhani varlýklar",
+      "Nurdan yaratýlmýþ ruhani varlýklar"
+    ]
+  },
+        {
+    "question":  "Kaç büyük Melek vardýr ?",
+    "answer": "4",
+    "choices": [
+      "2",
+      "3",
+      "4",
+      "112"
+    ]
+  },
+          {
+    "question":  "Büyük Melek isimleri nelerdir ?",
+    "answer": "Cebrail, Mikail, Ýsrafil, Azrail",
+    "choices": [
+      "Cebrail, Mikail, Kiramen Katibin, Azrail",
+      "Cebrail, Mikail, Ýsrafil, Azrail",
+      "Cebrail, Münker, Nekir, Azrail",
+      "Cebrail, Rýdvan, Malik, Azrail"
+    ]
+  },
+    {
+    "question":  "Ýnsanýn saðýndaki ve solundaki Meleklere ne denir ?",
+    "answer": "Kiramen Katibin",
+    "choices": [
+      "Kiramen Katibin",
+      "Kerrubiyyun Melekleri",
+      "Münker ve Nekir",
+      "Rýdvan ve Malik"
+    ]
+  },
+    {
+    "question":  "Öldükten sonra kabirde insanlara soru soran iki Melek kimdir?",
+    "answer": "Münker ve Nekir",
+    "choices": [
+      "Herkail",
+      "Kerrubiyyun Melekleri",
+      "Münker ve Nekir",
+      "Rýdvan ve Malik"
+    ]
+  },
+    {
+    "question":  "Cenneti bekleyen Melek kimdir ?",
+    "answer": "Rýdvan",
+    "choices": [
+      "Herkail",
+      "Rýdvan",
+      "Kerrubiyyun Melekleri",
+      "Malik"
+    ]
+  },
+  {
+    "question":  "Cehennemi bekleyen Melek kimdir ?",
+    "answer": "Malik",
+    "choices": [
+      "Mukarrebun Melekleri",
+      "Ýsrafil",
+      "Kerrubiyyun Melekleri",
+      "Malik"
+    ]
+  },
+       
+	   {
+    "question":  "Cebrail a.s.`ýn vazifesi nelerdir ?",
+    "answer": "Allah ile Peygamber arasýnda elçidir",
+    "choices": [
+      "Rýzýk ve yaðmurlarýn yaðmasý ile vazifesidir",
+      "Sur`a üflemekle görevlidir",
+      "Allah ile Peygamber arasýnda elçidir"
+    ]
+  },
+          {
+    "question":  "Mikail a.s`ýn vazifesi nelerdir ?",
+    "answer": "Rýzýk ve yaðmurlarýn yaðmasý ile vazifesidir",
+    "choices": [
+      "Rýzýk ve yaðmurlarýn yaðmasý ile vazifesidir",
+      "Sur`a üflemekle görevlidir",
+      "Allah ile Peygamber arasýnda elçidir"
+    ]
+  },
+  
+    {
+    "question":  "Ýsrafil a.s`ýn vazifesi nelerdir ?",
+    "answer": "Sur`a üflemekle görevlidir",
+    "choices": [
+      "Rýzýk ve yaðmurlarýn yaðmasý ile vazifesidir",
+      "Sur`a üflemekle görevlidir",
+      "Allah ile Peygamber arasýnda elçidir"
+    ]
+  },
+    {
+    "question":  "Ýsrafil a.s`ýn ilk Sur`a üfledikten sonra ne olur ?",
+    "answer": "Korku ve dehþetten bütün yaratýklar sarsýlacak",
+    "choices": [
+      "Bütün kainat alt üst olup, bütün canlýlar ölecek",
+      "Korku ve dehþetten bütün yaratýklar sarsýlacak",
+      "Ölmüþ olanlar mahþer yerinde toplanmak üzere dirilecektir"
+    ]
+  },
+        {
+    "question":  "Ýsrafil a.s`ýn ikinci kez Sur`a üfledikten sonra ne olur ?",
+    "answer": "Bütün kainat alt üst olup, bütün canlýlar ölecek",
+    "choices": [
+	  "Bütün kainat alt üst olup, bütün canlýlar ölecek",
+      "Korku ve dehþetten bütün yaratýklar sarsýlacak",
+      "Ölmüþ olanlar mahþer yerinde toplanmak üzere dirilecektir"
+    ]
+  },
+  {
+    "question":  "Ýsrafil a.s`ýn üçüncü kez Sur`a üfledikten sonra ne olur ?",
+    "answer": "Ölmüþ olanlar mahþer yerinde toplanmak üzere dirilecektir",
+    "choices": [
+	"Bütün kainat alt üst olup, bütün canlýlar ölecek",
+    "Korku ve dehþetten bütün yaratýklar sarsýlacak",
+    "Ölmüþ olanlar mahþer yerinde toplanmak üzere dirilecektir"
+    ]
+  },
+  {
+    "question":  "Mahþer nasýl bir yerdir ?",
+    "answer": "Geniþ, düz, binasýz ve yapýsýz, esmere yakýn beyaz bir yer",
+    "choices": [
+      "Geniþ, düz, binasýz ve yapýsýz, esmere yakýn beyaz bir yer",
+      "Dar, düz, binasýz ve yapýsýz, esmere yakýn beyaz bir yer",
+      "Geniþ, düz, binasýz ve yapýsýz, siyah bir yer"
+    ]
+  },
+    {
+    "question":  "Azrail a.s`ýn vazifesi nedir ?",
+    "answer": "Ýnsanlarýn canýný almak",
+    "choices": [
+	  "Rýzýk ve yaðmurlarýn yaðmasý ile vazifesidir",
+      "Sur`a üflemekle görevlidir",
+      "Allah ile Peygamber arasýnda elçidir",
+	  "Ýnsanlarýn canýný almak"
+    ]
+  },
+      {
+    "question":  "Allah tarafýndan konulmuþ bir kanuna ne denir ?",
+    "answer": "Din",
+    "choices": [
+      "Ýslam",
+      "Din",
+      "Ýman",
+      "Ýhsan"
+    ]
+  },
+    {
+    "question":  "Ýman nedir ?",
+    "answer": "Allah Teala`nýn dinini kalbi ile onaylamak",
+    "choices": [
+      "Namaz kýlmak",
+      "Dua etmek",
+      "Allah Teala`nýn dinini kalbi ile onaylamak",
+      "Oruç tutmak"
+    ]
+  },
+          {
+    "question":  "Ýslam nedir ?",
+    "answer": "Hepsi doðru",
+    "choices": [
+      "Teslim olmak",
+      "Boyun eðmek",
+      "Ýtaat etmek",
+      "Hepsi doðru"
+    ]
+  },
+            {
+    "question":  "Ýslamýn þartý nelerdir ?",
+    "answer": "Kelime-i þehadet, Namaz, Zekat, Oruç, Hac",
+    "choices": [
+      "Kelime-i þehadet, Namaz, Zekat, Oruç, Hac",
+      "Kelime-i þehadet, Abdest, Namaz, Zekat, Oruç",
+      "Kelime-i þehadet, Abdest, Namaz, Kurban kesmek, Oruç",
+      "Kelime-i þehadet, Abdest, Namaz, Zekat"
+    ]
+  },
+              {
+    "question":  "Ýmamýn þartý nelerdir ?",
+    "answer": "Hepsi doðru",
+    "choices": [
+      "Allah`a ve Meleklere inanmak",
+      "Kitaplara ve Peygamberlere inanmak",
+      "Ahiret gününe ve Kadere, hayrýn ve þerrin Allah'tan geldiðine inanmak",
+      "Hepsi doðru"
+    ]
+  },
+            {
+    "question":  "Ýhsan nedir ?",
+    "answer": "Allah`ý görüyormuþ gibi O`na ibadet etmendir",
+    "choices": [
+      "Yaptýðý iþi güzel yapmak",
+      "Baþkasýna iyilik etmek",
+      "Allah`ý görüyormuþ gibi O'na ibadet etmendir",
+      "Hepsi doðru"
+    ]
+  },
+  
+    {
+    "question": "'Allah`tan baþka Ýlah yoktur, Muhammed Allah`ýn elçisidir' buna ne denir ?",
+    "answer": "Kelime-i Tevhid",
+    "choices": [
+     "Kelime-i Tevhid",
+     "Kelime-i Þehadet"
+    ]
+  }, 
+   {
+    "question":"Ýtikadi mezhepler kaç kýsýmdýr ?",
+    "answer": "2: Ehl-i Sünnet ve Ehl-i Bid`at",
+    "choices": [
+      "2: Ehl-i Sünnet ve Ehl-i Bid`at",
+      "2: Ehl-i Sünnet ve Ehl-i Beyt"
+    ]
+  },
+    {
+    "question":"Büyük fýkhi mezhepler hangileridir ?",
+    "answer": "Hanefi, Maliki, Þafii ve Hanbeli",
+    "choices": [
+      "Hanefi, Maliki ve Hanbeli",
+      "Hanefi, Maliki, Þafii ve Hanbeli",
+      "Maliki, Þafii ve Hanbeli",
+      "Hanefi, Maliki ve Þafii"
+    ]
+  },
+                  {
+    "question":"Ehl-i Sünnet ne demektir ?",
+    "answer": "Peygamberimizin a.s. ve ashabýnýn gittigi yoldan gidenlerdir",
+    "choices": [
+      "Peygamberimizin a.s. ve ashabýnýn gittigi yoldan gidenlerdir",
+      "Peygamberimizin gittigi yoldan gidenlerdir",
+      "Ashabýnýn gittigi yoldan gidenlerdir"
+    ]
+  },
+    {
+    "question":"Dinle ilgili olarak yeni görüþ ve davranýþlarý benimseyenlere ne denir ?",
+    "answer": "Ehl-i Bid`at",
+    "choices": [
+      "Ehl-i Bid`at",
+      "Þia",
+      "Mu`tazila"
+    ]
+  },
+    {
+    "question":  "Allah`ýn sýfatlarý kaç kýsýmdýr ?",
+    "answer": "3 kýsýmdýr: Tenzihi (Selbi), Subuti ve Fiili",
+    "choices": [
+      "4",
+      "3 kýsýmdýr: Tenzihi (Selbi), Subuti ve Fiili",
+      "5"
+    ]
+  },
+      {
+    "question":  "Tenzihi nelerdir ?",
+    "answer": "Vucut, Kýdem, Beka, Vahdaniyet, Muhalefetün Li`l-Havadis, Kýyam bi nefsihi",
+    "choices": [
+      "Vucut, Kýdem, Beka, Vahdaniyet, Muhalefetün Li`l-Havadis, Kýyam bi nefsihi",
+      "Ýlim, Sem (iþitmek), Basar (görmek), Kudret, Ýrade, Kelam, Tekvin (oluþturmak)"
+    ]
+  },
+        {
+    "question":  "Sübuti sýfatlar ne demektir ?",
+    "answer": "Ýlim, Sem (iþitmek), Basar (görmek), Kudret, Ýrade, Kelam, Tekvin (oluþturmak)",
+    "choices": [
+      "Vucut, Kýdem, Beka, Vahdaniyet, Muhalefetün Li`l-Havadis, Kýyam bi nefsihi",
+      "Ýlim, Sem (iþitmek), Basar (görmek), Kudret, Ýrade, Kelam, Tekvin (oluþturmak)"
+    ]
+  },
+          {
+    "question":  "Ýnanç bakýmýndan insanlar kaç kýsýmdýr ?",
+    "answer": "3 kýsýmdýr: Mü`min, Kafir, Münafýk",
+    "choices": [
+      "12",
+      "5",
+      "3 kýsýmdýr: Mü`min, Kafir, Münafýk",
+      "7"
+    ]
+  },
+  {
+    "question":  "Mü`min kimdir ?",
+    "answer": "Allah`tan gelen her þeyi mutlak anlamda kalp ile tasdik eden",
+    "choices": [
+      "Ýslam dinini kabul eden",
+      "Allah`tan gelen her þeyi mutlak anlamda kalp ile tasdik eden"
+    ]
+  },
+    { "question":  "Kafir ne demek ?",
+    "answer": "Hepsi doðru",
+    "choices": [
+      "Ýnkar eden",
+      "Nimete nankörlük eden",
+      "Örten",
+      "Hepsi doðru"
+    ]
+  },
+  
+      {  "question":  "Münafýk kime denir ?",
+    "answer": "Hepsi doðru",
+    "choices": [
+      "Ýçinden gerçek anlamda iman etmemiþ olup, dýþýndan Müslüman görünen kimse",
+      "Allah`a, Rasulüne ve mü`minlere düþmanlýðýný gizleyen kimsedir",
+      "Ýtikadý nifak olan kimse",
+      "Hepsi doðru"
+    ]
+	},
+       {"question":  "Ýslam dinini kabul ettikten sonra dinden çýkan kimseye ne denir ?",
+    "answer": "Mürted",
+    "choices": [
+      "Mürted",
+      "Mühlet",
+      "Müdür"
+    ]
+  },
+   {"question":  "Efal-i Mükellefin, yani yükümlülerin fiilleri kaçtýr ?",
+    "answer": "8: Farz, vacib, sünnet, müstehab, mübah, haram, mekruh ve müfsid",
+    "choices": [
+      "8: Farz, vacib, sünnet, müstehab, mübah, haram, mekruh ve müfsid",
+      "7: Farz, vacib, sünnet, mübah, haram, mekruh ve müfsid",
+      "6: Farz, vacib, sünnet, müstehab, mübah, haram"
+    ]
+  },
+  
+    {"question":  "Farz nedir ?",
+    "answer": "Allah`ýn emridir, Namaz, Oruç, Hac, Zekat gibi",
+    "choices": [
+      "Farz Peygamberin Sünnetidir",
+      "Allah`ýn emridir, Namaz, Oruç, Hac, Zekat gibi",
+      "Farsça bir dildir"
+    ]
+  },
+     {"question":  "Vacip nedir ?",
+    "answer": "Farz gibi lazým olan iþlerdir, Vitir-, Bayram Namazý gibi",
+    "choices": [
+      "Sünnet gibi olan iþlerdir, Vitir-, Bayram Namazý gibi",
+      "Farz gibi lazým olan iþlerdir, Vitir-, Bayram Namazý gibi",
+      "Sabah Namazýn ilk iki rekatý"
+    ]
+  },
+       {"question":  "Sünnet nedir ?",
+    "answer": "Hz. Peygamber`in sözleri, fiilleri, iþleri ve takrirleri",
+    "choices": [
+      "Hz. Peygamber`in sözleri",
+      "Hz. Peygamber`in sözleri, fiilleri, iþleri ve takrirleri",
+      "Hz. Peygamber`in sözlerim iþleri ve takrirleri",
+      "Hz. Peygamber`in sözleri ve takrirleri"
+    ]
+  },
+         {"question":  "Müstehab nedir ?",
+    "answer": "Yapýlmasý sevap olan birþey. Nafile Namazý veya -orucu gibi",
+    "choices": [
+      "Yapýlmasý sevap olan birþey. Farz Namazý veya -orucu gibi",
+      "Yapýlmasý sevap olan birþey. Nafile Namazý veya -orucu gibi",
+      "Yapýlmasý sevap olan birþey. Vacip Namazý gibi"
+    ]
+  },
+           {"question":  "Mübah nedir ?",
+    "answer": "Yapýlmasý sevap veya günah olmayan birþey.Yemek, içmek gibi",
+    "choices": [
+      "Sevap olan þeyler",
+      "Günah olan þeyler",
+      "Yapýlmasý sevap veya günah olmayan birþey.Yemek, içmek gibi"
+    ]
+  },
+    {"question":  "Müfsit nedir ?",
+    "answer": "Ýbadeti bozan þeyler, Namaz kýlarken konuþmak gibi",
+    "choices": [
+      "Ýbadeti bozmayan þeyler",
+      "Ýbadeti bozan þeyler, Namaz kýlarken konuþmak gibi"
+    ]
+  },
+      {"question":  "Mekruh nedir ?",
+    "answer": "Yapýlmasý çirkin olan iþlerdir",
+    "choices": [
+      "Yapýlmasý çirkin olan iþlerdir",
+      "Yapýlmasý iyi olan iþlerdir"
+    ]
+  },
+        {"question":  "Tahrimen ve tenzihen mekruh arasýndaki fark nedir ?",
+    "answer": "ikisi dogru",
+    "choices": [
+      "Tahrimen mekruh: Harama yakýn olan, vacibi terk etmek gibi",
+      "Tenzihen mekruh: Helale yakýn olan, sünnetleri terk gibi",
+      "ikisi dogru"
+    ]
+  },
+          {"question":  "32 farz hangileridir (Hanefiye göre)?",
+    "answer": "5 Ýslamýn-, 6 Ýmanýn-, 3 Guslün-, 4 Abdestin-, 2 Teyemmümün-, 12 Namazýn farzý",
+    "choices": [
+      "6 Ýslamýn-, 5 Ýmanýn farzý, 2 Guslün farzý, 3 Abdestin farzý, 5 Teyemmümün farzý, 9 Namazýn farzý",
+      "5 Ýslamýn-, 6 Ýmanýn farzý, 3 Guslün farzý, 4 Abdestin farzý, 2 Teyemmümün farzý, 12 Namazýn farzý"
+    ]
+  },
+     {
+    "question": "Ýslamýn þartlarý 5tir",
+    "answer": "True",
+    "choices": [
+      "False",
+      "True"
+    ]
+  },
+     {"question":  "Ýslamýn þartlarý hangileridir ?",
+    "answer": "Kelime-i Þehadet getirmek, Namaz kýlmak, Oruç tutmak, Zekat vermek, Hacca gitmek",
+    "choices": [
+      "Allah'a inanmak, Meleklere inanmak, Kitablara inanmak, Peygamberlere inanmak, Ahiret gününe inanmak, Kaderin, hayrýn ve þerrin Allah'tan geldiðine inanmak",
+      "Kelime-i Þehadet getirmek, Namaz kýlmak, Oruç tutmak, Zekat vermek, Hacca gitmek"
+    ]
+  },
+       {"question":  "Ýmamýn þartlarý hangileridir?",
+    "answer": "Allah'a inanmak, Meleklere inanmak, Kitablara inanmak, Peygamberlere inanmak, Ahiret gününe inanmak, Kaderin, hayrýn ve þerrin Allah'tan geldiðine inanmak",
+    "choices": [
+      "Allah'a inanmak, Meleklere inanmak, Kitablara inanmak, Peygamberlere inanmak, Ahiret gününe inanmak, Kaderin, hayrýn ve þerrin Allah'tan geldiðine inanmak",
+      "Kelime-i Þehadet getirmek, Namaz kýlmak, Oruç tutmak, Zekat vermek, Hacca gitmek"
+    ]
+  },
+         {"question":  "Hanefi mezhebine Guslün farzlarý hangileridir ?",
+    "answer": "Aðzýn içini yýkamak, Burnun içini yýkamak, Bedenin her yerini yýkamak",
+    "choices": [
+      "Aðzýn içini yýkamak, Burnun içini yýkamak, Bedenin her yerini yýkamak",
+      "Aðzýn içini yýkamak, Burnun içini yýkamak",
+	  "Aðzýn içini yýkamak"
+    ]
+  },
+     {"question":  "Teyemmümün farzlarý nelerdir ?",
+    "answer": "Niyet etmek,  Elleri temiz topraða iki kere vurarak, yüzünü ve kollarýn tamamýný meshetmek",
+    "choices": [
+      "Niyet etmek,  Elleri temiz topraða bir kere vurarak, yüzünü ve kollarýn tamamýný meshetmek",
+      "Niyet etmek,  Elleri temiz topraða iki kere vurarak, yüzünü ve kollarýn tamamýný meshetmek"
+    ]
+  },
+    {"question":  "Abdestin farzlarý nelerdir ?",
+    "answer": "1-Yüzü yýkamak, 2-Ýki kolu yýkamak (Eller kola dâhildir), 3-Baþýn en az dörtte birini mesh etmek, 4-Ýki ayaðý yýkamak",
+    "choices": [
+      "1-Yüzü yýkamak, 2-Ýki kolu yýkamak (Eller kola dâhildir), 3-Baþýn en az dörtte birini mesh etmek, 4-Ýki ayaðý yýkamak",
+      "1-Yüzü yýkamak, 2-Baþýn en az dörtte birini mesh etmek, 3-Ýki ayaðý yýkamak"
+    ]
+  },
+      {"question":  "Namazýn farzlarý 12 tanedir. 6`sý dýþýnda olanlarý hangileridir ?",
+    "answer": "1-Hadesten taharet, 2-Necasetten taharet, 3-Setr-i avret, 4-Ýstikbal-i kýble, 5-Vakit, 6-Niyet",
+    "choices": [
+      "1-Hadesten taharet, 2-Necasetten taharet, 3-Setr-i avret, 4-Ýstikbal-i kýble, 5-Vakit, 6-Niyet",
+      "1-Vakit, 2-Necasetten taharet, 3-Setr-i avret, 4-Ýstikbal-i kýble, 5-Hadesten taharet, 6-Niyet",
+	  "1-Hadesten taharet, 2-Necasetten taharet, 3-Niyet, 4-Ýstikbal-i kýble, 5-Vakit, 6-Setr-i avret"
+    ]
+  },
+        {"question":  "Namazýn farzlarý 12 tanedir. 6`sý içinde olanlarý hangileridir ?",
+    "answer": "1-Ýftitah tekbiri, 2-Kýyam, 3-Kýraat, 4-Rüku, 5-Secde, 6-Kade-i ahire",
+    "choices": [
+      "1-Ýftitah tekbiri, 2-Rüku, 3-Kýraat, 4-Kýyam, 5-Secde, 6-Kade-i ahire",
+      "1-Ýftitah tekbiri, 2-Kýyam, 3-Kýraat, 4-Rüku, 5-Secde, 6-Kade-i ahire",
+	  "1-Ýftitah tekbiri, 2-Kýyam, 3-Kade-i ahire, 4-Rüku, 5-Secde, 6-Kýraat"
+    ]
+  },
+    {"question":  "Hadesten taharet ne demektir ?",
+    "answer": "Abdestsiz olanýn abdest almasý, cünüp veya hayzlý ve nifaslý olanýn gusletmesidir",
+    "choices": [
+      "Abdestsiz olanýn abdest almasý, cünüp veya hayzlý ve nifaslý olanýn gusletmesidir",
+      "Cünüp veya hayzlý ve nifaslý olanýn gusletmesidir",
+	  "Abdestsiz olanýn abdest almasý"
+    ]
+  },
+    {"question":  "Necasetten taharet ne demektir ?",
+    "answer": "Namaz kýlanýn, vücudunu, elbisesini ve namaz kýlacaðý yeri, necasetten temizlemesidir",
+    "choices": [
+      "Namaz kýlanýn, elbisesini ve namaz kýlacaðý yeri, necasetten temizlemesidir",
+      "Namaz kýlanýn, vücudunu necasetten temizlemesidir",
+	  "Namaz kýlanýn, vücudunu, elbisesini ve namaz kýlacaðý yeri, necasetten temizlemesidir"
+    ]
+  },
+    {"question":  "Setr-i avret ne demektir ?",
+    "answer": "Avret yerini örtmek demektir",
+    "choices": [
+      "Avret yerini örtmek demektir",
+      "Yolculuða çýkmak",
+	  "Saklanmak"
+    ]
+  },
+      {"question":  "Erkeðin avret yeri neresidir?",
+    "answer": "Göbeðinden dizi altýna kadardýr",
+    "choices": [
+      "Göbeðinden dizi altýna kadardýr",
+      "Göbeðinden ayaklarýna kadardýr",
+	  "Boðazýnden dizi altýna kadardýr"
+    ]
+  },
+      {"question":  "Kadýnýn avret yeri neresidir ?",
+    "answer": "Yüz ve ellerinden baþka her yeri",
+    "choices": [
+      "Yüz ve ellerinden baþka her yeri",
+      "Yüzden baþka her yeri",
+	  "Her yeri"
+    ]
+  },
+      {"question":  "Ýstikbal-i kýble ne demektir ?",
+    "answer": "Namaz kýlarken kýbleye dönmektir",
+    "choices": [
+      "Namaz kýlarken kýbleye dönmektir",
+      "Kýbleye dogru yörümektir",
+	  "Kabeyi tavaf etmektir"
+    ]
+  },
+
+      {"question":  "Sabah Namazý kaç rekat`týr ?",
+    "answer": "4: iki sünnet, iki farz",
+    "choices": [
+      "4: iki sünnet, iki farz",
+      "5: iki sünnet, üç farz",
+	  "8: dört sünnet, dört farz"
+    ]
+  },
+    {"question":  "Öðle Namazý kaç rekat`týr ?",
+    "answer": "10: dört (ilk) sünnet, dört farz, iki (son) sünnet",
+    "choices": [
+      "10: dört (ilk) sünnet, dört farz, iki (son) sünnet",
+      "8: dört (ilk) sünnet, dört farz",
+      "6: dört farz, iki (son) sünnet"
+    ]
+  },
+      {"question":  "Ýkindi Namazý kaç rekat`týr ?",
+    "answer": "8: dört sünnet, dört farz",
+    "choices": [
+      "8: dört sünnet, dört farz",
+      "6: iki sünnet, dört farz",
+      "6: dört sünnet, iki farz"
+    ]
+  },
+    {"question":  "Akþam Namazý kaç rekat`týr ?",
+    "answer": "5: üç farz, iki sünnet",
+    "choices": [
+      "5: üç farz, iki sünnet",
+      "6: üç farz, üç sünnet",
+      "8: dört farz, dört sünnet"
+    ]
+  },
+    {"question":  "Yatsý Namazý kaç rekat`týr ?",
+    "answer": "13: dört sünnet, dört farz, iki sünnet, üç vitir",
+    "choices": [
+      "10: dört sünnet, dört farz, iki sünnet",
+      "11: dört sünnet, dört farz, üç vitir",
+      "13: dört sünnet, dört farz, iki sünnet, üç vitir"
+    ]
+  },
+  
+   {"question":  "Farz-ý Ayn ne demektir?",
+    "answer": "Yapýlmasý mutlak lazým gelen: Vakit Namazlarý gibi",
+    "choices": [
+      "Yapýlmasý mutlak lazým gelen: Vakit Namazlarý gibi",
+      "Yapýlmasý mutlak lazým gelmeyen"
+    ]
+  },
+        {"question":  "Farz-ý Kifaye ne demektir?",
+    "answer": "Cenaze namazý gibi, bazýlarýn yapmasýyla, diðerlerin üzerinden kalkan emri ilahi",
+    "choices": [
+      "Cenaze namazý gibi, bazýlarýn yapmasýyla, diðerlerin üzerinden kalkan emri ilahi",
+      "Farz namazý gibi, herkesin yapmasý gereken ilahi emir"
+    ]
+  },
+         {"question":  "Vacip Namazlar nelerdir ?",
+    "answer": "Vitir-, Bayram-, Adak-, Kabede Tavaf Namazý gibi",
+    "choices": [
+      "Vitir-, Bayram-, Adak-, Kabede Tavaf Namazý gibi",
+      "Sabah-, Öðle-, Ýkindi-, Akþam-, Yatsý Namazý gibi"
+    ]
+  },
+    {"question":  "Bayram Namazý kaç rekat`týr ?",
+    "answer": "Ýki",
+    "choices": [
+      "üç",
+      "Ýki",
+      "dört",
+      "beþ"
+	  
+    ]
+  },
+    {"question":  "Sünnet kaç kýsýmdýr ?",
+    "answer": "Ýki kýsýmdýr: Sünnet-i müekkede ve Sünnet-i gayri müekkedeler",
+    "choices": [
+      "Ýki kýsýmdýr: Sünnet-i müekkede ve Sünnet-i gayri müekkedeler",
+      "Üç",
+      "Dört"
+	  
+    ]
+  }, 
+  
+  {"question":  "Sünnet-i müekkede ne demektir?",
+    "answer": "Peygamberimizin s.a.v. devamlý olarak iþleyip nadiren terkettiði; farz ve vacib olmayan amelleri",
+    "choices": [
+      "Peygamberimizin s.a.v. devamlý olarak iþleyip nadiren terkettiði; farz ve vacib olmayan amelleri",
+      "Farz ve Vacib olan ameller"
+    ]
+  },  
+  
+  {"question":  "Sünnet-i gayri müekkedele ne demektir?",
+    "answer": "Peygamberimizin s.a.v. bazen yapýp bazen de terkettiði ameller",
+    "choices": [
+      "Peygamberimizin s.a.v. bazen yapýp bazen de terkettiði ameller",
+      "Peygamberimizin s.a.v. hep yapýptýðý ameller"
+    ]
+  },
+   {"question":  "Kavli Sünnet ne demektir ?",
+    "answer": "Hazreti Peygamberin herhangi bir konu hakkýndaki sözlü beyanýdýr",
+    "choices": [
+      "Hazreti Peygamberin herhangi bir konu hakkýndaki sözlü beyanýdýr",
+      "Hazreti Peygamberin fiili sünneti",
+      "Hazreti Peygamberin takriri sünneti"
+     
+    ]
+  },
+        {"question":  "Fiili Sünnet ne demektir ?",
+    "answer": "Peygamberimizin bütün fiil ve hareket tarzlarý",
+    "choices": [
+      "Peygamberimizin bütün fiil ve hareket tarzlarý",
+      "Peygamberimizin bütün fiil ve sözleri",
+      "Peygamberimizin bütün sözleri"
+    ]
+  },
+    {"question":  "Takriri Sünnet ne demektir ?",
+    "answer": "Sahabe tarafýndan yapýlan bir iþi, bir davranýþý Peygamberimizin s.a.v`in reddetmeyip susmasýdýr",
+    "choices": [
+      "Sahabe tarafýndan yapýlan bir iþi, bir davranýþý Peygamberimizin s.a.v`in reddetmeyip susmasýdýr",
+      "Sahabe tarafýndan yapýlan bir iþi, bir davranýþý Peygamberimizin s.a.v`in reddetmesi"
+    ]
+  }, 
+  
+      {"question":  "Namaz ne zaman farz kýlýnmý`týr ?",
+    "answer": "Miraç (Ýsrâ) gecesinde farz kýlýnmýþtýr",
+    "choices": [
+      "Miraç (Ýsra) gecesinde farz kýlýnmýþtýr",
+      "Berat kandilinde",
+      "Ramazan bayramýnda"
+    ]
+  }
+]
