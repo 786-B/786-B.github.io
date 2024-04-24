@@ -361,11 +361,11 @@
 	},
 	{
 		"question": "Wie wurden die Offenbarungen Gottes festgehalten ?",
-		"answer": "In Offenbarungsseiten (Suhuf) und Offenbarungsbüchern",
+		"answer": "In Offenbarungsseiten (Suhuf) und Offenbarungsbücher",
 		"choices": [
 			"In Büchern",
 			"Auf dem Tablet",
-			"In Offenbarungsseiten (Suhuf) und Offenbarungsbüchern",
+			"In Offenbarungsseiten (Suhuf) und Offenbarungsbücher",
 			"Als Sprachnachricht"
 		]
 	},
@@ -408,7 +408,7 @@
 		]
 	},
 	{
-		"question": "An welchen Gesandten wurde die Psalmen offenbart ?",
+		"question": "An welchen Gesandten wurden die Psalmen offenbart ?",
 		"answer": "David (Fsmi)",
 		"choices": [
 			"David (Fsmi)",
@@ -498,11 +498,11 @@
 	},
 	{
 		"question": "Was für Wesen sind Engel ?",
-		"answer": "Engel sind Wesen, die Allah aus Licht erschaffen hat",
+		"answer": "Engel sind Wesen, die Allah aus Nour erschaffen hat",
 		"choices": [
 			"Engel sind Wesen, die Allah aus Feuer erschaffen hat",
 			"Engel sind Wesen, die Allah aus Lehm erschaffen hat",
-			"Engel sind Wesen, die Allah aus Licht erschaffen hat"
+			"Engel sind Wesen, die Allah aus Nour erschaffen hat"
 		]
 	},
 	{
@@ -688,18 +688,18 @@
 		"answer": "alle richtig",
 		"choices": [
 			"Glaube an Allah & Seine Engel",
-			"Glaube an Seine Propheten und Offenbarungsbüchern",
-			"Glaube an den jüngsten Tag",
+			"Glaube an Seine Propheten und Offenbarungsbücher",
+			"Glaube an den Jüngsten Tag",
 			"Glaube an das Schicksal, was von Allah bestimmt ist, sei es gut oder schlecht",
 			"alle richtig"
 		]
 	},
 	{
 		"question": "Was ist Ihsan ?",
-		"answer": "Allah so zu anzubeten, als ob ihr IHN sehen könntet. Denn auch wenn ihr IHN nicht sieht, sieht ER euch ganz gewiss",
+		"answer": "Dass du Allah dienst, als würdest du Ihn sehen. Auch wenn du Ihn nicht siehst, sieht Er dich",
 		"choices": [
-			"Eine Hadis",
-			"Allah so zu anzubeten, als ob ihr IHN sehen könntet. Denn auch wenn ihr IHN nicht sieht, sieht ER euch ganz gewiss"
+			"Eine Hadith",
+			"Dass du Allah dienst, als würdest du Ihn sehen. Auch wenn du Ihn nicht siehst, sieht Er dich"
 		]
 	},
 	{
@@ -740,10 +740,10 @@
 		]
 	},
 	{
-		"question": "Was bedeutet Fard ?",
+		"question": "Was bedeutet Fardh ?",
 		"answer": "Es ist die Pflicht gegenüber Allah, wie z.B. die 5 Gebete",
 		"choices": [
-			"Fard ist die Sunnah des Propheten",
+			"Fardh ist die Sunnah des Propheten",
 			"Es ist die Pflicht gegenüber Allah, wie z.B. die 5 Gebete",
 			"Steht für die persische Sprache"
 		]
@@ -792,18 +792,18 @@
 		]
 	},
 	{
-		"question": "Welches sind die 32 Fard/Pflichten (nach Hanafi)?",
-		"answer": "5 Säulen d. Islam, 6 d. Imans, 3 d. Ghusl, 4 d. Waschung, 2 d. Tayammum-, 12 d. Gebets",
+		"question": "Welches sind die 32 Fardh/Pflichten (nach Hanafi)?",
+		"answer": "5 Säulen d. Islam, 6 d. Imans, 3 d. Ghusl, 4 d. Wudhu, 2 d. Tayammum-, 12 d. Gebets",
 		"choices": [
-			"6 Säulen d. Islam, 5 d. Imans, 2 d. Ghusl, 8 d. Waschung, 4 d. Tayammum-, 13 d. Gebets",
-			"5 Säulen d. Islam, 6 d. Imans, 3 d. Ghusl, 4 d. Waschung, 2 d. Tayammum-, 12 d. Gebets"
+			"6 Säulen d. Islam, 5 d. Imans, 2 d. Ghusl, 8 d. Wudhu, 4 d. Tayammum-, 13 d. Gebets",
+			"5 Säulen d. Islam, 6 d. Imans, 3 d. Ghusl, 4 d. Wudhu, 2 d. Tayammum-, 12 d. Gebets"
 		]
 	},
 	{
 		"question": "Nenne die 6 Säulen des Imans ?",
-		"answer": "Glaube an ALLAH & d. Engel & d. heiligen Bücher & d. Propheten & d. jüngsten Tag & das Schicksal & dass Gutes und Schlechtes von Allah kommen",
+		"answer": "Glaube an ALLAH & d. Engel & d. heiligen Bücher & d. Propheten & d. Jüngsten Tag & das Schicksal & dass Gutes und Schlechtes von Allah kommen",
 		"choices": [
-			"Glaube an ALLAH & d. Engel & d. heiligen Bücher & d. Propheten & d. jüngsten Tag & das Schicksal & dass Gutes und Schlechtes von Allah kommen",
+			"Glaube an ALLAH & d. Engel & d. heiligen Bücher & d. Propheten & d. Jüngsten Tag & das Schicksal & dass Gutes und Schlechtes von Allah kommen",
 			"Glaubensbekenntnis, Gebet, Fasten, Almosensteuer, Pilgerfahrt"
 		]
 	},
@@ -833,7 +833,7 @@
 		]
 	},
 	{
-		"question": "Nenne die Pflichten der Waschung ?",
+		"question": "Nenne die Pflichten des Wudhu ?",
 		"answer": "Gesicht, Arme & Ellbogen waschen, Kopf befeuchten, Füße mit den Knöcheln zusammen waschen",
 		"choices": [
 			"Gesicht, Arme & Ellbogen waschen, Kopf befeuchten, Füße mit den Knöcheln zusammen waschen",
@@ -857,7 +857,7 @@
 		]
 	},
 	{
-		"question": "Was bedeutet Rak'a ?",
+		"question": "Was bedeutet Rak'aa ?",
 		"answer": "Es ist eine Gebetseinheit",
 		"choices": [
 			"Sitzen",
@@ -874,48 +874,48 @@
 		]
 	},
 	{
-		"question": "Wie viele Rak'a hat das Morgengebet ?",
-		"answer": "4: zwei Sunnah, zwei Fard",
+		"question": "Wie viele Rak'aa hat das Morgengebet ?",
+		"answer": "4: zwei Sunnah, zwei Fardh",
 		"choices": [
-			"4: zwei Sunnah, zwei Fard",
-			"5: zwei Sunnah, drei Fard",
-			"8: vier Sunnah, vier Fard"
+			"4: zwei Sunnah, zwei Fardh",
+			"5: zwei Sunnah, drei Fardh",
+			"8: vier Sunnah, vier Fardh"
 		]
 	},
 	{
-		"question": "Wie viele Rak'a hat das Mittagsgebet (Zuhr)?",
-		"answer": "10: vier (erste) Sunnah, vier Fard, zwei (letzte) Sunnah",
+		"question": "Wie viele Rak'aa hat das Mittagsgebet (Dhuhr)?",
+		"answer": "10: vier (erste) Sunnah, vier Fardh, zwei (letzte) Sunnah",
 		"choices": [
-			"10: vier (erste) Sunnah, vier Fard, zwei (letzte) Sunnah",
-			"8: vier (erste) Sunnah, vier Fard",
-			"6: vier Fard, zwei (letzte) Sunnah"
+			"10: vier (erste) Sunnah, vier Fardh, zwei (letzte) Sunnah",
+			"8: vier (erste) Sunnah, vier Fardh",
+			"6: vier Fardh, zwei (letzte) Sunnah"
 		]
 	},
 	{
-		"question": "Wie viele Rak'a hat das Nachmittagsgebet (Asr)?",
-		"answer": "8: vier Sunnah, vier Fard",
+		"question": "Wie viele Rak'aa hat das Nachmittagsgebet (Asr)?",
+		"answer": "8: vier Sunnah, vier Fardh",
 		"choices": [
-			"8: vier Sunnah, vier Fard",
-			"6: zwei Sunnah, vier Fard",
-			"6: vier Sunnah, zwei Fard"
+			"8: vier Sunnah, vier Fardh",
+			"6: zwei Sunnah, vier Fardh",
+			"6: vier Sunnah, zwei Fardh"
 		]
 	},
 	{
-		"question": "Wie viele Rak'a hat das Maghrib-Gebet (Sonnenuntergang)?",
-		"answer": "5: drei Fard, zwei Sunnah",
+		"question": "Wie viele Rak'aa hat das Maghrib-Gebet (Sonnenuntergang)?",
+		"answer": "5: drei Fardh, zwei Sunnah",
 		"choices": [
-			"5: drei Fard, zwei Sunnah",
+			"5: drei Fardh, zwei Sunnah",
 			"6: drei Pflichten, drei Beschneidungen",
-			"8: vier Fard, vier Sunnah"
+			"8: vier Fardh, vier Sunnah"
 		]
 	},
 	{
-		"question": "Wie viele Rak'a hat das Abendgebet (Ischa)?",
-		"answer": "13: vier Sunnah, vier Fard, zwei Sunnah, drei Witr",
+		"question": "Wie viele Rak'aa hat das Abendgebet (Ishaa)?",
+		"answer": "13: vier Sunnah, vier Fardh, zwei Sunnah, drei Witr",
 		"choices": [
-			"10: vier Sunnah, vier Fard, zwei Sunnah",
-			"11: vier Sunnah, vier Fard, drei Witr",
-			"13: vier Sunnah, vier Fard, zwei Sunnah, drei Witr"
+			"10: vier Sunnah, vier Fardh, zwei Sunnah",
+			"11: vier Sunnah, vier Fardh, drei Witr",
+			"13: vier Sunnah, vier Fardh, zwei Sunnah, drei Witr"
 		]
 	}
 ]
